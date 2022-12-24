@@ -11,7 +11,7 @@
       - [1. 정수형](https://github.com/Kuminchang/TIL#%EC%A0%95%EC%88%98%ED%98%95)
       - [2. 실수형](https://github.com/Kuminchang/TIL#%EC%8B%A4%EC%88%98%ED%98%95)
       - [3. 8진수와 16진수](https://github.com/Kuminchang/TIL#8%EC%A7%84%EC%88%98%EC%99%80-16%EC%A7%84%EC%88%98)
-    - [02-2숫자형을 활용하기 위한 연산자](https://github.com/Kuminchang/TIL#%EC%88%AB%EC%9E%90%ED%98%95%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0-%EC%9C%84%ED%95%9C-%EC%97%B0%EC%82%B0%EC%9E%90)
+    - [02-2 숫자형을 활용하기 위한 연산자](https://github.com/Kuminchang/TIL#%EC%88%AB%EC%9E%90%ED%98%95%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0-%EC%9C%84%ED%95%9C-%EC%97%B0%EC%82%B0%EC%9E%90)
       - [x의 y제곱 나타내는 ** 연산자](https://github.com/Kuminchang/TIL#x%EC%9D%98-y%EC%A0%9C%EA%B3%B1%EC%9D%84-%EB%82%98%ED%83%80%EB%82%B4%EB%8A%94--%EC%97%B0%EC%82%B0%EC%9E%90)
       - [나눗셈 후 나머지를 반환하는 % 연산자](https://github.com/Kuminchang/TIL#%EB%82%98%EB%88%97%EC%85%88-%ED%9B%84-%EB%82%98%EB%A8%B8%EC%A7%80%EB%A5%BC-%EB%B0%98%ED%99%98%ED%95%98%EB%8A%94--%EC%97%B0%EC%82%B0%EC%9E%90)
       - [나눗셈 후 나머지를 반환하는 // 연산자](https://github.com/Kuminchang/TIL#%EB%82%98%EB%88%97%EC%85%88-%ED%9B%84-%EB%AA%AB%EC%9D%84-%EB%B0%98%ED%99%98%ED%95%98%EB%8A%94--%EC%97%B0%EC%82%B0%EC%9E%90)
