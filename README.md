@@ -4,9 +4,8 @@
 * python
   - [Jump To Python](https://github.com/Kuminchang/TIL/blob/main/PYTHON/%EC%A0%90%ED%94%84%20%ED%88%AC%20%ED%8C%8C%EC%9D%B4%EC%8D%AC.md)
   - [1장]
-    - [파이썬이란?](https://github.com/Kuminchang/TIL#1-1-%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%B4%EB%9E%80)
-    - [파이썬의특징]
-(https://github.com/Kuminchang/TIL#1-2-%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%98-%ED%8A%B9%EC%A7%95)
+    - [01-1 파이썬이란?](https://github.com/Kuminchang/TIL#1-1-%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%B4%EB%9E%80)
+    - [01-2 파이썬의특징](https://github.com/Kuminchang/TIL#1-2-%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%98-%ED%8A%B9%EC%A7%95)
 
 ## 파이썬을 설치하는 방법
 * 실습을 위해 컴퓨터에 파이썬을 설치해 보자. 이 책에서는 윈도우와 맥에서의 설치 방법만을 다룬다. 다른 시스템을 사용할 경우 파이썬 홈페이지(http://www.python.org)의 설명을 참고하자
