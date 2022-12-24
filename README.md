@@ -3,10 +3,10 @@
 ## Spring
 * python
   - [Jump To Python](https://github.com/Kuminchang/TIL/blob/main/PYTHON/%EC%A0%90%ED%94%84%20%ED%88%AC%20%ED%8C%8C%EC%9D%B4%EC%8D%AC.md)
-  -  1장
+  * 1장
     - [01-1 파이썬이란?](https://github.com/Kuminchang/TIL#1-1-%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%B4%EB%9E%80)
     - [01-2 파이썬의 특징](https://github.com/Kuminchang/TIL#1-2-%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%98-%ED%8A%B9%EC%A7%95)
-  -  2장
+  * 2장
     - [02-1 숫자형이란?](https://github.com/Kuminchang/TIL#1-%EC%88%AB%EC%9E%90%ED%98%95%EC%9D%B4%EB%9E%80)
       - [1. 정수형](https://github.com/Kuminchang/TIL#%EC%A0%95%EC%88%98%ED%98%95)
       - [2. 실수형](https://github.com/Kuminchang/TIL#%EC%8B%A4%EC%88%98%ED%98%95)
