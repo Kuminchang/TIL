@@ -13,7 +13,7 @@
 ## 윈도우에서 파이썬 설치하기
 (http://www.python.org/downloads)에서 윈도우용 파이썬 언어 패키지를 다운로드한다.
 
- *[파이썬 설치 홈페이지]
+   [파이썬 설치 홈페이지]
  (http://www.python.org/downloads/)
  
 ## 1-1 파이썬이란?
