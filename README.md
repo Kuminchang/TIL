@@ -6,6 +6,7 @@
   * 1장
     - [01-1 파이썬이란?](https://github.com/Kuminchang/TIL#1-1-%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%B4%EB%9E%80)
     - [01-2 파이썬의 특징](https://github.com/Kuminchang/TIL#1-2-%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%98-%ED%8A%B9%EC%A7%95)
+ 
   * 2장
     - [02-1 숫자형이란?](https://github.com/Kuminchang/TIL#1-%EC%88%AB%EC%9E%90%ED%98%95%EC%9D%B4%EB%9E%80)
       - [1. 정수형](https://github.com/Kuminchang/TIL#%EC%A0%95%EC%88%98%ED%98%95)
@@ -15,6 +16,7 @@
       - [x의 y제곱 나타내는 ** 연산자](https://github.com/Kuminchang/TIL#x%EC%9D%98-y%EC%A0%9C%EA%B3%B1%EC%9D%84-%EB%82%98%ED%83%80%EB%82%B4%EB%8A%94--%EC%97%B0%EC%82%B0%EC%9E%90)
       - [나눗셈 후 나머지를 반환하는 % 연산자](https://github.com/Kuminchang/TIL#%EB%82%98%EB%88%97%EC%85%88-%ED%9B%84-%EB%82%98%EB%A8%B8%EC%A7%80%EB%A5%BC-%EB%B0%98%ED%99%98%ED%95%98%EB%8A%94--%EC%97%B0%EC%82%B0%EC%9E%90)
       - [나눗셈 후 나머지를 반환하는 // 연산자](https://github.com/Kuminchang/TIL#%EB%82%98%EB%88%97%EC%85%88-%ED%9B%84-%EB%AA%AB%EC%9D%84-%EB%B0%98%ED%99%98%ED%95%98%EB%8A%94--%EC%97%B0%EC%82%B0%EC%9E%90)
+ 
     - [02-2 문자열 자료형](https://github.com/Kuminchang/TIL#2-2-%EB%AC%B8%EC%9E%90%EC%97%B4-%EC%9E%90%EB%A3%8C%ED%98%95)
       - [문자열이란?](https://github.com/Kuminchang/TIL#%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%B4%EB%9E%80)
       - [1. 큰 따옴표(")로 양쪽 둘러싸기](https://github.com/Kuminchang/TIL#1-%ED%81%B0-%EB%94%B0%EC%98%B4%ED%91%9C%EB%A1%9C-%EC%96%91%EC%AA%BD-%EB%91%98%EB%9F%AC%EC%8B%B8%EA%B8%B0)
@@ -413,4 +415,3 @@ weather = a[8:]
  
  * 위 예시에서 볼 수 있듯이 슬라이싱을 사용하면 'Pithon' 문자열을 'P' 부분과 'thon' 부분으로 나눌 수 있기 떄문에
  그 사이에 'y'를 추가하여 'Python' 이라는 새로운 문자열을 만들 수 있다.
- 
