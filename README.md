@@ -31,6 +31,9 @@
       - [ 문자열 인덱싱과 슬라이싱](https://github.com/Kuminchang/TIL#%EB%AC%B8%EC%9E%90%EC%97%B4-%EC%9D%B8%EB%8D%B1%EC%8B%B1%EA%B3%BC-%EC%8A%AC%EB%9D%BC%EC%9D%B4%EC%8B%B1)
       - [문자열 인덱싱이란?](https://github.com/Kuminchang/TIL#%EB%AC%B8%EC%9E%90%EC%97%B4-%EC%9D%B8%EB%8D%B1%EC%8B%B1%EC%9D%B4%EB%9E%80)
       - [문자열 슬라이싱이란?](https://github.com/Kuminchang/TIL#%EB%AC%B8%EC%9E%90%EC%97%B4-%EC%8A%AC%EB%9D%BC%EC%9D%B4%EC%8B%B1%EC%9D%B4%EB%9E%80)
+      - [슬라이싱으로 문자열 나누기] (https://github.com/Kuminchang/TIL#%EC%8A%AC%EB%9D%BC%EC%9D%B4%EC%8B%B1%EC%9C%BC%EB%A1%9C-%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%82%98%EB%88%84%EA%B8%B0)
+      - [문자 대입](https://github.com/Kuminchang/TIL#pithon-%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%84-python%EC%9C%BC%EB%A1%9C-%EB%B0%94%EA%BE%B8%EA%B8%B0)
+      
    
 ## 파이썬을 설치하는 방법
 * 실습을 위해 컴퓨터에 파이썬을 설치해 보자. 이 책에서는 윈도우와 맥에서의 설치 방법만을 다룬다. 다른 시스템을 사용할 경우 파이썬 홈페이지(http://www.python.org)의 설명을 참고하자
