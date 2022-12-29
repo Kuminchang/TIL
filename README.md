@@ -39,7 +39,7 @@
       * [소수점 표현](https://github.com/Kuminchang/TIL#%EC%86%8C%EC%88%98%EC%A0%90-%ED%91%9C%ED%98%84)
       * [format 함수](https://github.com/Kuminchang/TIL#format-%ED%95%A8%EC%88%98%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%9C-%ED%8F%AC%EB%A7%A4%ED%8C%85)
        * [f 문자열 포매팅](https://github.com/Kuminchang/TIL#f-%EB%AC%B8%EC%9E%90%EC%97%B4-%ED%8F%AC%EB%A7%A4%ED%8C%85)
-      * [닥셔너리](https://github.com/Kuminchang/TIL#%EB%94%95%EC%85%94%EB%84%88%EB%A6%AC)
+      * [딕셔너리](https://github.com/Kuminchang/TIL#%EB%94%95%EC%85%94%EB%84%88%EB%A6%AC)
       * [문자열 관련 함수들](https://github.com/Kuminchang/TIL#%EB%94%95%EC%85%94%EB%84%88%EB%A6%AC)
       
    
