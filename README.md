@@ -678,7 +678,7 @@ ValueError: substring not found
 'Your leg is too short'
 ```
 
-## 문자열 나누기(split)
+### 문자열 나누기(split)
 ```python
 >>> a = "Life is too short"
 >>> a.split()
