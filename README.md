@@ -12,29 +12,29 @@
       - [1. 정수형](https://github.com/Kuminchang/TIL#%EC%A0%95%EC%88%98%ED%98%95)
       - [2. 실수형](https://github.com/Kuminchang/TIL#%EC%8B%A4%EC%88%98%ED%98%95)
       - [3. 8진수와 16진수](https://github.com/Kuminchang/TIL#8%EC%A7%84%EC%88%98%EC%99%80-16%EC%A7%84%EC%88%98)
-      - [숫자형을 활용하기 위한 연산자](https://github.com/Kuminchang/TIL#%EC%88%AB%EC%9E%90%ED%98%95%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0-%EC%9C%84%ED%95%9C-%EC%97%B0%EC%82%B0%EC%9E%90)
-      - [x의 y제곱 나타내는 ** 연산자](https://github.com/Kuminchang/TIL#x%EC%9D%98-y%EC%A0%9C%EA%B3%B1%EC%9D%84-%EB%82%98%ED%83%80%EB%82%B4%EB%8A%94--%EC%97%B0%EC%82%B0%EC%9E%90)
-      - [나눗셈 후 나머지를 반환하는 % 연산자](https://github.com/Kuminchang/TIL#%EB%82%98%EB%88%97%EC%85%88-%ED%9B%84-%EB%82%98%EB%A8%B8%EC%A7%80%EB%A5%BC-%EB%B0%98%ED%99%98%ED%95%98%EB%8A%94--%EC%97%B0%EC%82%B0%EC%9E%90)
-      - [나눗셈 후 나머지를 반환하는 // 연산자](https://github.com/Kuminchang/TIL#%EB%82%98%EB%88%97%EC%85%88-%ED%9B%84-%EB%AA%AB%EC%9D%84-%EB%B0%98%ED%99%98%ED%95%98%EB%8A%94--%EC%97%B0%EC%82%B0%EC%9E%90)
+      * [숫자형을 활용하기 위한 연산자](https://github.com/Kuminchang/TIL#%EC%88%AB%EC%9E%90%ED%98%95%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0-%EC%9C%84%ED%95%9C-%EC%97%B0%EC%82%B0%EC%9E%90)
+      * [x의 y제곱 나타내는 ** 연산자](https://github.com/Kuminchang/TIL#x%EC%9D%98-y%EC%A0%9C%EA%B3%B1%EC%9D%84-%EB%82%98%ED%83%80%EB%82%B4%EB%8A%94--%EC%97%B0%EC%82%B0%EC%9E%90)
+      * [나눗셈 후 나머지를 반환하는 % 연산자](https://github.com/Kuminchang/TIL#%EB%82%98%EB%88%97%EC%85%88-%ED%9B%84-%EB%82%98%EB%A8%B8%EC%A7%80%EB%A5%BC-%EB%B0%98%ED%99%98%ED%95%98%EB%8A%94--%EC%97%B0%EC%82%B0%EC%9E%90)
+      * [나눗셈 후 나머지를 반환하는 // 연산자](https://github.com/Kuminchang/TIL#%EB%82%98%EB%88%97%EC%85%88-%ED%9B%84-%EB%AA%AB%EC%9D%84-%EB%B0%98%ED%99%98%ED%95%98%EB%8A%94--%EC%97%B0%EC%82%B0%EC%9E%90)
  
     - [02-2 문자열 자료형](https://github.com/Kuminchang/TIL#2-2-%EB%AC%B8%EC%9E%90%EC%97%B4-%EC%9E%90%EB%A3%8C%ED%98%95)
       - [문자열이란?](https://github.com/Kuminchang/TIL#%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%B4%EB%9E%80)
       - [1. 큰 따옴표(")로 양쪽 둘러싸기](https://github.com/Kuminchang/TIL#1-%ED%81%B0-%EB%94%B0%EC%98%B4%ED%91%9C%EB%A1%9C-%EC%96%91%EC%AA%BD-%EB%91%98%EB%9F%AC%EC%8B%B8%EA%B8%B0)
       - [2. 작은 따옴표(')로 양쪽 둘러싸기](https://github.com/Kuminchang/TIL#2-%EC%9E%91%EC%9D%80-%EB%94%B0%EC%98%B4%ED%91%9C%EB%A1%9C-%EC%96%91%EC%AA%BD-%EB%91%98%EB%9F%AC%EC%8B%B8%EA%B8%B0)
       - [3. 큰따옴표 3개를 연속(""")로 써서 양쪽 둘러싸기](https://github.com/Kuminchang/TIL#3-%ED%81%B0%EB%94%B0%EC%98%B4%ED%91%9C-3%EA%B0%9C%EB%A5%BC-%EC%97%B0%EC%86%8D%EB%A1%9C-%EC%8D%A8%EC%84%9C-%EC%96%91%EC%AA%BD-%EB%91%98%EB%9F%AC%EC%8B%B8%EA%B8%B0)
-      - [이스케이프코드란?](https://github.com/Kuminchang/TIL#%EC%9D%B4%EC%8A%A4%EC%BC%80%EC%9D%B4%ED%94%84-%EC%BD%94%EB%93%9C%EB%9E%80)
-      - [문자열 연산하기](https://github.com/Kuminchang/TIL#%EB%AC%B8%EC%9E%90%EC%97%B4-%EC%97%B0%EC%82%B0%ED%95%98%EA%B8%B0)
-      - [문자열 더해서 연산하기](https://github.com/Kuminchang/TIL#%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%8D%94%ED%95%B4%EC%84%9C-%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0)
-      - [문자열 곱하기](https://github.com/Kuminchang/TIL#%EB%AC%B8%EC%9E%90%EC%97%B4-%EA%B3%B1%ED%95%98%EA%B8%B0)
-      - [문자열 곱하기 응용](https://github.com/Kuminchang/TIL#%EB%AC%B8%EC%9E%90%EC%97%B4-%EA%B3%B1%ED%95%98%EA%B8%B0-%EC%9D%91%EC%9A%A9)
-      - [문자열 길이 구하기](https://github.com/Kuminchang/TIL#%EB%AC%B8%EC%9E%90%EC%97%B4-%EA%B8%B8%EC%9D%B4-%EA%B5%AC%ED%95%98%EA%B8%B0)
-      
+      * [이스케이프코드란?](https://github.com/Kuminchang/TIL#%EC%9D%B4%EC%8A%A4%EC%BC%80%EC%9D%B4%ED%94%84-%EC%BD%94%EB%93%9C%EB%9E%80)
+      * [문자열 연산하기](https://github.com/Kuminchang/TIL#%EB%AC%B8%EC%9E%90%EC%97%B4-%EC%97%B0%EC%82%B0%ED%95%98%EA%B8%B0)
+      * [문자열 더해서 연산하기](https://github.com/Kuminchang/TIL#%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%8D%94%ED%95%B4%EC%84%9C-%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0)
+      * [문자열 곱하기](https://github.com/Kuminchang/TIL#%EB%AC%B8%EC%9E%90%EC%97%B4-%EA%B3%B1%ED%95%98%EA%B8%B0)
+      * [문자열 곱하기 응용](https://github.com/Kuminchang/TIL#%EB%AC%B8%EC%9E%90%EC%97%B4-%EA%B3%B1%ED%95%98%EA%B8%B0-%EC%9D%91%EC%9A%A9)
+      * [문자열 길이 구하기](https://github.com/Kuminchang/TIL#%EB%AC%B8%EC%9E%90%EC%97%B4-%EA%B8%B8%EC%9D%B4-%EA%B5%AC%ED%95%98%EA%B8%B0)
+
     - [02-3 문자열의 인덱싱과 슬라이싱](https://github.com/Kuminchang/TIL#%EB%AC%B8%EC%9E%90%EC%97%B4-%EC%9D%B8%EB%8D%B1%EC%8B%B1%EA%B3%BC-%EC%8A%AC%EB%9D%BC%EC%9D%B4%EC%8B%B1)
-      - [ 문자열 인덱싱과 슬라이싱](https://github.com/Kuminchang/TIL#%EB%AC%B8%EC%9E%90%EC%97%B4-%EC%9D%B8%EB%8D%B1%EC%8B%B1%EA%B3%BC-%EC%8A%AC%EB%9D%BC%EC%9D%B4%EC%8B%B1)
-      - [문자열 인덱싱이란?](https://github.com/Kuminchang/TIL#%EB%AC%B8%EC%9E%90%EC%97%B4-%EC%9D%B8%EB%8D%B1%EC%8B%B1%EC%9D%B4%EB%9E%80)
-      - [문자열 슬라이싱이란?](https://github.com/Kuminchang/TIL#%EB%AC%B8%EC%9E%90%EC%97%B4-%EC%8A%AC%EB%9D%BC%EC%9D%B4%EC%8B%B1%EC%9D%B4%EB%9E%80)
-      - [슬라이싱으로 문자열 나누기](https://github.com/Kuminchang/TIL#%EC%8A%AC%EB%9D%BC%EC%9D%B4%EC%8B%B1%EC%9C%BC%EB%A1%9C-%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%82%98%EB%88%84%EA%B8%B0)
-      - [문자 대입](https://github.com/Kuminchang/TIL#pithon-%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%84-python%EC%9C%BC%EB%A1%9C-%EB%B0%94%EA%BE%B8%EA%B8%B0)
+      * [ 문자열 인덱싱과 슬라이싱](https://github.com/Kuminchang/TIL#%EB%AC%B8%EC%9E%90%EC%97%B4-%EC%9D%B8%EB%8D%B1%EC%8B%B1%EA%B3%BC-%EC%8A%AC%EB%9D%BC%EC%9D%B4%EC%8B%B1)
+      * [문자열 인덱싱이란?](https://github.com/Kuminchang/TIL#%EB%AC%B8%EC%9E%90%EC%97%B4-%EC%9D%B8%EB%8D%B1%EC%8B%B1%EC%9D%B4%EB%9E%80)
+      * [문자열 슬라이싱이란?](https://github.com/Kuminchang/TIL#%EB%AC%B8%EC%9E%90%EC%97%B4-%EC%8A%AC%EB%9D%BC%EC%9D%B4%EC%8B%B1%EC%9D%B4%EB%9E%80)
+      * [슬라이싱으로 문자열 나누기](https://github.com/Kuminchang/TIL#%EC%8A%AC%EB%9D%BC%EC%9D%B4%EC%8B%B1%EC%9C%BC%EB%A1%9C-%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%82%98%EB%88%84%EA%B8%B0)
+      * [문자 대입](https://github.com/Kuminchang/TIL#pithon-%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%84-python%EC%9C%BC%EB%A1%9C-%EB%B0%94%EA%BE%B8%EA%B8%B0)
       
    
 ## 파이썬을 설치하는 방법
@@ -420,3 +420,61 @@ weather = a[8:]
  
  * 위 예시에서 볼 수 있듯이 슬라이싱을 사용하면 'Pithon' 문자열을 'P' 부분과 'thon' 부분으로 나눌 수 있기 떄문에
  그 사이에 'y'를 추가하여 'Python' 이라는 새로운 문자열을 만들 수 있다.
+
+ ### 문자열 포매팅
+ 
+ * 문자열 포매팅이란 문자열 안에 어떤 값을 삽입하는 방법이다.
+
+ ## 문자열 포매팅 따라 하기
+
+ * 1. 숫자 바로 대입
+ ```python
+ >>> "I eat %d apples." % 3
+ 'I eat 3 apples.'
+ ```
+
+ * 위 예제의 결과값을 보면 위 예제는 문잗열 안에 정수 3을 삽입하는 방법을 보여준다.
+
+ * 2. 문자열 바로 대입
+ ```python
+ >>> "I eat %s apples." % "five"
+ 'I eat five apples.'
+ ```
+
+ * 위 예제에서는 문자열 안에 다른 문자열을 삽입하기 위해 앞에서 사용한 문자열 포맷 코드 %d가 아닌 %s를 썻다.
+ * 숫자를 넣기 위해서는 %d를 사용하고, 문자열을 넣기 위해서는 %s를 써야 한다는 것을 명심하자.
+
+ * 3. 숫자 값을 나타내는 변수로 대입
+ ```python
+ >>> number = 3
+ >>> "I eat %d apples." % number
+ 'I eat 3 apples.'
+ ```
+
+ * 1번처럼 숫자를 바로 대입하거나 위 예제처럼 숫자 값을 나타내는 변수를 사용하나 결과는 같다.
+
+ * 4. 2개 이상의 값 넣기
+ ```python
+ >>> number = 10
+ >>> day = 'three'
+ >>> "I ate %d apples. so I was for %s days." % (number, day)
+ 'I ate 10 apples. so I was sick for three days.'
+```
+
+* 위 예문처럼 2개 이상의 값을 넣으려면 마지막 % 다음 괄호 안에 콤마(,)로 구분하여 각가의 값을 넣어 주면 된다.
+
+## 문자열 포맷 코드
+* 이번에는 문자열 포맷 코드를 알아보자
+
+```python
+
+코드   설명
+%s     문자열(String)
+%c     문자 1개(character)
+%d     정수(Interger)
+%f     부동소수(floating-point)
+%o     8진수
+%x     16진수
+%%     Literal %(문자%자체)
+```
+
