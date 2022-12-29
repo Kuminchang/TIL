@@ -516,7 +516,7 @@ ValueError: incomplete format
 
 * 3.42134234를 소수점 네 번째 자리까지만 나타내고 싶은 경우에는 위와 같이 사용한다.
 
-# format 함수를 사용한 포매팅
+## format 함수를 사용한 포매팅
 
 * 문자열의 format 함수를 사용하면 좀 더 발전된 스타일로 문자열 포맷을 지정할 수 있다.
 
@@ -569,7 +569,7 @@ ValueError: incomplete format
 
 * 위와 같이 인덱스 항목과 name = value 형태를 혼용해서 사용하는 것도 가능하다.
 
-# f 문자열 포매팅
+## f 문자열 포매팅
 * 다음과 같이 문자열 앞에 f 접두사를 붙이면 f 문자열 포매팅 기능을 사용할 수 있다.
 ```python
 >>> name = '홍길동'
@@ -590,7 +590,7 @@ ValueError: incomplete format
 '나는 내년이면 31살이 된다.'
 ```
 
-# 딕셔너리
+## 딕셔너리
 * 딕셔너리는 f 문자열 포매팅에서 다음과 같이 사용 가능하다.
   * 딕셔너리는 Key와 Value라는 것을 한 쌍으로 갖는 자료형
 
@@ -600,10 +600,10 @@ ValueError: incomplete format
 '나의 이름은 홍길동입니다. 나이는 30입니다.'
 ```
 
-# 문자열 관련 함수들
+## 문자열 관련 함수들
 * 문자열 자료형은 자체적으로 함수를 가지고 있다. 이들 함수를 다른 말로 문자열 내장 함수라 한다. 이 내장 함수를 사용하려면 문자열 변수 이름 뒤에 '.'를 붙힌 다음에 함수 이름을 써주면 된다.
 
-## 문자 개수 세기(count)
+### 문자 개수 세기(count)
 
 ```python
 >>> a = 'hobby'
@@ -613,7 +613,7 @@ ValueError: incomplete format
 
 * 문자열 중 문자 b의 개수를 리턴한다.
 
-## find 함수
+### find 함수
 
 ```python
 >>> a = 'Python is the best choice"
@@ -625,7 +625,7 @@ ValueError: incomplete format
 
 * 문자열 중 문자 b가 처음으로 나온 위치를 반환한다. 만약 찾는 문자나 문자열이 존재하지 않는다면 -1을 반환한다.
 
-## index
+### index
 
 ```python
 >>> a = "Life is too short"
@@ -639,7 +639,7 @@ ValueError: substring not found
 
 * 문자열 중 문자 t가 맨 처음으로 나온 위치를 반환한다. 만약 찾는 문자나 문자열이 존재하지 않는다면 오류를 발생시킨다.
 
-## 문자열 삽입
+### 문자열 삽입
 
 ```python
 >>> ",".join('abcd')
@@ -654,7 +654,7 @@ ValueError: substring not found
 'a,b,c,d'
 ```
 
-## 소문자를 대문자로 바꾸기(upper)
+### 소문자를 대문자로 바꾸기(upper)
 ```python
 >>> a = "hi"
 >>> a.upper()
@@ -663,7 +663,7 @@ ValueError: substring not found
 
 * upper 함수는 소문자를 대문자로 바꾸어 준다.
 
-## 대문자를 소문자로 바꾸기(lower)
+### 대문자를 소문자로 바꾸기(lower)
 ```python
 >>> a = 'HI'
 'hi'
@@ -671,7 +671,7 @@ ValueError: substring not found
 
 * lower 함수는 대문자를 소문자로 바꾸어 준다.
 
-## 문자열 바꾸기(replace)
+### 문자열 바꾸기(replace)
 ```python
 >>> a = 'Life is too short"
 >>> a.replace("Life", "Your leg")
