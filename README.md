@@ -34,7 +34,13 @@
       * [문자열 인덱싱이란?](https://github.com/Kuminchang/TIL#%EB%AC%B8%EC%9E%90%EC%97%B4-%EC%9D%B8%EB%8D%B1%EC%8B%B1%EC%9D%B4%EB%9E%80)
       * [문자열 슬라이싱이란?](https://github.com/Kuminchang/TIL#%EB%AC%B8%EC%9E%90%EC%97%B4-%EC%8A%AC%EB%9D%BC%EC%9D%B4%EC%8B%B1%EC%9D%B4%EB%9E%80)
       * [슬라이싱으로 문자열 나누기](https://github.com/Kuminchang/TIL#%EC%8A%AC%EB%9D%BC%EC%9D%B4%EC%8B%B1%EC%9C%BC%EB%A1%9C-%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%82%98%EB%88%84%EA%B8%B0)
-      * [문자 대입](https://github.com/Kuminchang/TIL#pithon-%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%84-python%EC%9C%BC%EB%A1%9C-%EB%B0%94%EA%BE%B8%EA%B8%B0)
+      * [문자 대입](https://github.com/Kuminchang/TIL#%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%B0%94%EB%A1%9C-%EB%8C%80%EC%9E%85)
+      * [문자열 포맷 코드](https://github.com/Kuminchang/TIL#%EB%AC%B8%EC%9E%90%EC%97%B4-%ED%8F%AC%EB%A7%B7-%EC%BD%94%EB%93%9C)
+      * [소수점 표현](https://github.com/Kuminchang/TIL#%EC%86%8C%EC%88%98%EC%A0%90-%ED%91%9C%ED%98%84)
+      * [format 함수](https://github.com/Kuminchang/TIL#format-%ED%95%A8%EC%88%98%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%9C-%ED%8F%AC%EB%A7%A4%ED%8C%85)
+       * [f 문자열 포매팅](https://github.com/Kuminchang/TIL#f-%EB%AC%B8%EC%9E%90%EC%97%B4-%ED%8F%AC%EB%A7%A4%ED%8C%85)
+      * [닥셔너리](https://github.com/Kuminchang/TIL#%EB%94%95%EC%85%94%EB%84%88%EB%A6%AC)
+      * [문자열 관련 함수들](https://github.com/Kuminchang/TIL#%EB%94%95%EC%85%94%EB%84%88%EB%A6%AC)
       
    
 ## 파이썬을 설치하는 방법
