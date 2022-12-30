@@ -49,7 +49,7 @@
   * [튜플 더하기](https://github.com/Kuminchang/TIL#%ED%8A%9C%ED%94%8C-%EA%B3%B1%ED%95%98%EA%B8%B0)
   * [튜플 길이 구하기](https://github.com/Kuminchang/TIL#%ED%8A%9C%ED%94%8C-%EA%B8%B8%EC%9D%B4-%EA%B5%AC%ED%95%98%EA%B8%B0)
 
-* [02-5 딕셔너리 자료형]()
+* [02-5 딕셔너리 자료형](https://github.com/Kuminchang/TIL#2-5-%EB%94%95%EC%85%94%EB%84%88%EB%A6%AC-%EC%9E%90%EB%A3%8C%ED%98%95)
 
 ## 파이썬을 설치하는 방법
 * 실습을 위해 컴퓨터에 파이썬을 설치해 보자. 이 책에서는 윈도우와 맥에서의 설치 방법만을 다룬다. 다른 시스템을 사용할 경우 파이썬 홈페이지(http://www.python.org)의 설명을 참고하자
