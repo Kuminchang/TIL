@@ -800,6 +800,7 @@ ValueError: substring not found
 ```
 
 ## 딕셔너리 쌍 추가 및 삭제
+
 ### 딕셔너리 쌍 추가하기
 ```python
 >>> a = {1: 'a'}
