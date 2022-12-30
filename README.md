@@ -781,7 +781,7 @@ ValueError: substring not found
 
 * Key와 Value의 쌍 여러개가 {}로 둘러싸여 있다. 각각의 요소는 Key : Value형태로 이루어져 있고 쉼표(,)로 구분되어 있다.
 
-* 딕셔너리 예시
+### 딕셔너리 예시
 ```python
 >>> dic = {'name':'pey', 'phone':'010-9999-1234','birth':'1118'}
 ```
