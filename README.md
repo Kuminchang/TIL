@@ -835,5 +835,166 @@ ValueError: substring not found
 * 딕셔너리에서 요소를 삭제하기 위해 del함수를 사용한다.
 del a[key]처럼 입력하면 지정한 key에 해당하는 {key:value}쌍이 삭제된다.
 
+### 딕셔너리를 사용하는 방법
 
+* 딕셔너리 표현 방법
+```python
+{"김연아":"피겨스케이팅","류현진":"야구","손흥민":"축구","귀도":"파이썬"}
+```
+
+* 딕셔너리는 key,Value로 이루어진 한 쌍이라는 것을 알고가자.
+
+### 딕셔너리에서 Key 사용해 Value 얻기
+
+```python
+>>> grade = {'pey':10,'julliet':99}
+>>> grade['pey']
+10
+>>> grade['julliet']
+99
+```
+
+* 리스트나 튜플, 문자열은 요소값을 얻고자 할 때 인덱싱이나 슬라이싱 기법 중 하나를 사용했다. 위 예에서 'pey'라는 Key의 Value를 얻기 위해 grade['pey']를 사용한 것처럼 어떤 Key의 Value를 얻기 위해서는 딕셔너리변수이름 [Key]를 사용한다.
+
+* list = [1,2,3] , tuple = (1,2,3), dictionary = {'a':1, 'b':2, 'c':3}
+
+### 딕셔너리의 리턴값 확인하기
+
+```python
+>>> a = {1:'a',2:'b'}
+>>> a[1]
+'a'
+>>> a[2]
+'b'
+```
+
+```python
+>>> a = {'a':1, 'b':2}
+>>> a['a']
+1
+>>> a['b']
+2
+```
+
+### 딕셔너리의 Key를 이용해서 Value 얻기
+
+```python
+>>> dic = {'name':'pey', 'phone':'010-9999-1234', 'birth': '1118'}
+>>> dic['name']
+'pey'
+>>> dic['phone']
+'010-9999-1234'
+>>> dic['birth']
+'1118'
+```
+
+### 딕셔너리 만들 때 주의할 사항
+
+* 딕셔너리에서 Key는 고유한 값이므로 중복되는 Key 값을 설정해 놓으면 하나를 제외한 나머지 것들이 모두 무시된다. 다음 예에서 볼 수 있듯이 동일한 Key가 2개 존재할 경우 1:'a' 쌍이 무시된다. 즉 앞에 하나의 값을 빼고 뒤에 것을 무시된다.
+
+* 또 한가지 주의할 점은 Key에 리스트는 쓸 수 없다. 만약 다음 예처럼 리스트를 Key로 설정하면 리스트를 키 값으로 사용할 수 없다는 오류가 발생한다.
+
+```python
+>>> a = {[1,2] : 'hi'}
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+TypeError: unhashable type: 'list'
+```
+
+* 단 Value에는 변하는 값이든 변하지 않는 값이든 상관없이 아무 값이나 넣을 수 있다.
+
+### 딕셔너리 관련 함수들
+
+## Key 리스트 만들기(Keys)
+```python
+>>> a = {'name':'pey','phone':'010-9999-1234','birth':'1118'}
+>>> a.keys()
+dict_keys(['name','phone','birth'])
+```
+
+* a.keys()는 딕셔너리 a의 Key만을 모아서 dict_keys 객체를 리턴한다.
+
+* dict_keys 객체는 다음과 같이 사용 가능하다. 리스트를 사용하는 것과 차이가 없지만, 리스트 고유의 append, insert, pop, remove, sort 함수는 수행할 수 없다.
+```python
+>>> for k in a.keys():
+      print(k)
+...
+...
+name
+phone
+birth
+```
+
+* print(k)를 입력할 때 들여쓰기를 하지 않으면 오류가 발생하니 주의하자.
+
+## dict_keys 객체를 리스트로 변환하려면 다음과 같이 하면 된다.
+
+```python
+>>> list(a.keys())
+['name','phone','birth']
+```
+
+### Value 리스트 만들기(values)
+```python
+>>> a.values()
+dict_values(['pey','010-9999-1234','1118'])
+```
+
+### Key.Value 쌍 얻기(items)
+
+```python
+>>> a.items()
+dict_items([('name','pey'),('phone', '010-9999-1234'), ('birth', '1118')])
+```
+
+* item 함수는 Key와 Value의 쌍을 튜플로 묶은 값을 dict_items 객체로 돌려준다.
+
+### Key : Value 쌍 모두 지우기(clear)
+```python
+>>> a.clear()
+>>> a
+{}
+```
+
+* clear 함수는 딕셔너리 안의 모든 요소를 삭제한다.
+
+### Key로 Value 얻기(get)
+
+```python
+>>> a = {'name':'pey', 'phone':'010-9999-1234', 'birth': '1118'}
+>>> a.get('name')
+'pey'
+>>> a.get('phone')
+'010-9999-1234'
+```
+
+* get(x) 함수는 x라는 Key에 대응되는 Value를 리턴한다.
+* 만약 딕셔너리에 존재하지 않는 키로 값을 가져올 경우 a['nokey']방식은 오류를 방생시키고, a.get('nokey') 방식은 None을 리턴한다는 차이가 있다.
+
+## 딕셔너리 안에 디폴트 값 가져오기
+```python
+>>> a.get('nokey','foo')
+'foo'
+```
+
+### 해당 Key가 딕셔너리 안에 있는지 조사하기(in)
+
+```python
+>>> a = {'name':'pey', 'phone':'010-9999-1234', 'birth': '1118'}
+>>> 'name' in a
+True
+>>> 'email' in a
+False
+```
+
+### 해당 Key사 딕셔너리 안에 있는지 조사하기(in)
+```python
+>>> a = {'name':'pey', 'phone':'010-9999-1234', 'birth': '1118'}
+>>> 'name' in a
+True
+>>> 'email' in a
+False
+```
+
+* 'name' 문자열은 a 딕셔너리의 Key 중 하나이다. 따라서 'name' in a를 호출하면 참(TRUE)를 리턴한다. 하지만 딕셔너리안에 존재하지 않는 Key를 호출하는 경우엔 False를 리턴한다.
 
