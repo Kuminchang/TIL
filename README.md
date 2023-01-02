@@ -987,7 +987,7 @@ True
 False
 ```
 
-### 해당 Key사 딕셔너리 안에 있는지 조사하기(in)
+### 해당 Key가 딕셔너리 안에 있는지 조사하기(in)
 ```python
 >>> a = {'name':'pey', 'phone':'010-9999-1234', 'birth': '1118'}
 >>> 'name' in a
