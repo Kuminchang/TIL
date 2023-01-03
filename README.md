@@ -65,7 +65,6 @@
   * [집합 자료형은 어떻게 만들까?](https://github.com/Kuminchang/TIL#%EC%A7%91%ED%95%A9-%EC%9E%90%EB%A3%8C%ED%98%95%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%A7%8C%EB%93%A4%EA%B9%8C)
   * [집합 자료형의 특징](https://github.com/Kuminchang/TIL#%EC%A7%91%ED%95%A9-%EC%9E%90%EB%A3%8C%ED%98%95%EC%9D%98-%ED%8A%B9%EC%A7%95)
   * [교집합, 합집합, 차집합](https://github.com/Kuminchang/TIL#%EA%B5%90%EC%A7%91%ED%95%A9-%ED%95%A9%EC%A7%91%ED%95%A9-%EC%B0%A8%EC%A7%91%ED%95%A9-%EA%B5%AC%ED%95%98%EA%B8%B0)
-  * [집합 자료형 관련 함수들](https://github.com/Kuminchang/TIL#%EC%A7%91%ED%95%A9-%EC%9E%90%EB%A3%8C%ED%98%95-%EA%B4%80%EB%A0%A8-%ED%95%A8%EC%88%98%EB%93%A4)
   * [값 1개 추가하기 (add 함수)](https://github.com/Kuminchang/TIL#%EA%B0%92-1%EA%B0%9C-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0add)
   * [값 여러개 추가하기 (update함수)](https://github.com/Kuminchang/TIL#%EA%B0%92-%EC%97%AC%EB%9F%AC-%EA%B0%9C-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0update)
   * [특정 값 제거하기 (remove함수)](https://github.com/Kuminchang/TIL#%ED%8A%B9%EC%A0%95-%EA%B0%92-%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0remove)
