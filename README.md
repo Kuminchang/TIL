@@ -61,6 +61,16 @@
   * [dict_keys 객체 리스트로 변환하기](https://github.com/Kuminchang/TIL#dict_keys-%EA%B0%9D%EC%B2%B4%EB%A5%BC-%EB%A6%AC%EC%8A%A4%ED%8A%B8%EB%A1%9C-%EB%B3%80%ED%99%98%ED%95%98%EB%A0%A4%EB%A9%B4-%EB%8B%A4%EC%9D%8C%EA%B3%BC-%EA%B0%99%EC%9D%B4-%ED%95%98%EB%A9%B4-%EB%90%9C%EB%8B%A4)
   * [딕셔너리 안에 디폴트 값 가져오기](https://github.com/Kuminchang/TIL#%EB%94%95%EC%85%94%EB%84%88%EB%A6%AC-%EC%95%88%EC%97%90-%EB%94%94%ED%8F%B4%ED%8A%B8-%EA%B0%92-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0)
 
+* [02-6 집합 자료형](https://github.com/Kuminchang/TIL#2-6-%EC%A7%91%ED%95%A9-%EC%9E%90%EB%A3%8C%ED%98%95)
+  * [집합 자료형은 어떻게 만들까?](https://github.com/Kuminchang/TIL#%EC%A7%91%ED%95%A9-%EC%9E%90%EB%A3%8C%ED%98%95%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%A7%8C%EB%93%A4%EA%B9%8C)
+  * [집합 자료형의 특징](https://github.com/Kuminchang/TIL#%EC%A7%91%ED%95%A9-%EC%9E%90%EB%A3%8C%ED%98%95%EC%9D%98-%ED%8A%B9%EC%A7%95)
+  * [교집합, 합집합, 차집합](https://github.com/Kuminchang/TIL#%EA%B5%90%EC%A7%91%ED%95%A9-%ED%95%A9%EC%A7%91%ED%95%A9-%EC%B0%A8%EC%A7%91%ED%95%A9-%EA%B5%AC%ED%95%98%EA%B8%B0)
+  *[집합 자료형 관련 함수들](https://github.com/Kuminchang/TIL#%EC%A7%91%ED%95%A9-%EC%9E%90%EB%A3%8C%ED%98%95-%EA%B4%80%EB%A0%A8-%ED%95%A8%EC%88%98%EB%93%A4)
+  * [값 1개 추가하기(add 함수)](https://github.com/Kuminchang/TIL#%EA%B0%92-1%EA%B0%9C-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0add)
+  * [값 여러 개 추가하기(update함수)](https://github.com/Kuminchang/TIL#%EA%B0%92-%EC%97%AC%EB%9F%AC-%EA%B0%9C-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0update)
+  * [특정 값 제거하기(remove함수)](https://github.com/Kuminchang/TIL#%ED%8A%B9%EC%A0%95-%EA%B0%92-%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0remove)
+  
+
 ## 파이썬을 설치하는 방법
 * 실습을 위해 컴퓨터에 파이썬을 설치해 보자. 이 책에서는 윈도우와 맥에서의 설치 방법만을 다룬다. 다른 시스템을 사용할 경우 파이썬 홈페이지(http://www.python.org)의 설명을 참고하자
 
